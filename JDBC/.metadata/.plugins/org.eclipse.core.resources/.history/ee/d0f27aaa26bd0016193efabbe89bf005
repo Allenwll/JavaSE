@@ -1,0 +1,22 @@
+package array;
+
+public class Test {
+	
+	
+	public static void main(String[] args) {
+		Demo t=new Demo();
+		t.name=" A";
+		System.out.println(t.name);
+		Demo d=t;
+		
+		d.name="B";
+		
+		System.out.println(t.name);
+		
+	}
+}
+
+class Demo{
+	String name;
+	
+}

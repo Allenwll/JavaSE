@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user clazz="12">
+    <age>100</age>
+    <gender>male</gender>
+    <nickName>Mars</nickName>
+  </user>
+  <user>
+    <name>小明</name>
+    <age>18</age>
+    <gender>female</gender>
+  </user>
+</users>
